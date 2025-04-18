@@ -1,11 +1,11 @@
 header {
-    background-color: blueviolet;
+    background-color: rgb(191, 255, 216);
 }
 
 body {
-    background-color: gray;
+    background-color: rgb(252, 255, 177);
 }
 
 footer {
-    background-color: rgb(91, 174, 247);
+    background-color: rgb(147, 215, 255);
 }
